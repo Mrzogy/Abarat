@@ -22,7 +22,7 @@ class HomeScreen extends StatelessWidget {
 
     return Scaffold(
       bottomNavigationBar: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 20),
+        padding: const EdgeInsets.symmetric(horizontal: 25, vertical: 20),
         child: GNav(
           backgroundColor: Colors.black,
           color: Colors.white,
